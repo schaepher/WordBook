@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordbook>
+  <item>
+    <word>abdomen</word>
+    <pron>aa</pron>
+    <def def_id="0">
+      <en>Your #abdomen# is the part of your body below your chest where your stomach and intestines are.</en>
+      <exmp>He was suffering from pains in his abdomen.</exmp>
+      <cn>中文单词</cn>
+      <trans>中文翻译</trans>
+    </def>
+  </item>
+    <item>
+    <word>account</word>
+    <pron>əˈkaʊnt</pron>
+    <def def_id="0">
+      <en>If you have an #account# with a bank or a similar organization, you have an arrangement to leave your money there and take some out when you need it.</en>
+      <exmp>Some banks make it difficult to open an account.
+I had two accounts with Natwest, a savings account and a current account.
+Biggart Donald, the Glasgow-based marketing agency, has won two Edinburgh accounts.
+He kept detailed accounts.
+...an account book.
+He gave a detailed account of what happened on the fateful night.
+According to police accounts, Mr and Mrs Hunt were found dead on the floor of their kitchen.
+This basic utilitarian model gives a relatively unsophisticated account of human behaviour.
+Science, on Weber's account, is an essentially value-free activity.
+The opening day of the battle was, nevertheless, accounted a success.
+...homosexuals, whose sexual behaviour is still accounted sinful by the church.</exmp>
+      <cn />
+      <trans />
+    </def>
+    <def def_id="1">
+      <en>An # account# is a detailed record of all the money that a business or a person receives and spends.</en>
+      <exmp>In double entry bookkeeping, every debit or credit in the #account# is also represented as a credit or debit somewhere else.
+Unless we make an adjustment to lower the original cost figure shown in the #accounts#, we will be overstating the value of the asset.
+#An account# is a detailed record of all the money that a business or a person receives and spends.</exmp>
+      <cn />
+      <trans />
+    </def>
+    <def def_id="2">
+      <en>An # account# is a record kept by a business of invoices and payments for a customer.</en>
+      <exmp>The check for $8000 was an immediate payment on #account# of the agreed price for the house.
+We have gained some new clients to offset the old clients, but we've probably lost more #accounts# than we've gained.
+#An account# is a record kept by a business of invoices and payments for a customer.</exmp>
+      <cn />
+      <trans />
+    </def>
+    <def def_id="3">
+      <en>An # account# is a regular client or customer, such as a firm or trader buying goods or supplies on credit.</en>
+      <exmp>New #account# applications require information to be filled out first by the potential customer, then by the company for quotation, and then back to the customer for final signature.
+We have gained some new clients to offset the old clients, but we've probably lost more #accounts# than we've gained.
+#An account# is a regular client or customer, such as a firm or trader buying goods or supplies on credit.</exmp>
+      <cn />
+      <trans />
+    </def>
+  </item>
+</wordbook>

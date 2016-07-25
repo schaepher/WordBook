@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WordBook</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="comment">评论</string>
+    <string name="change_log">变更记录</string>
+    <string name="edit">编辑</string>
+    <string name="save">保存</string>
+    <string name="word_not_found">sorry,暂无该词</string>
+    <string name="input_can_no_empty">输入不能为空</string>
+    <string name="initData">初始化数据中...</string>
+</resources>

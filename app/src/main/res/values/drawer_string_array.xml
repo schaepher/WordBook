@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item name="query">查单词</item>
+        <item name="browse">浏览</item>
+        <item name="about">关于</item>
+        <item name="settings">设置</item>
+        <item name="exit">退出</item>
+    </string-array>
+</resources>
